@@ -1,7 +1,6 @@
 # Group4Project
-If you are really reading this congrats, you made it into README.md
-There is nothing important here xd
-Have nice day tho <3
+
+SDU Sonderborg Software Engineering 1st semester Group 4 Semester Project
 
 Requirements:
 System Locale - English(USA)
